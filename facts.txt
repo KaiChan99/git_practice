@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 There are more people living in London than in the whole of Scotland (~9 million vs ~5.5 million)
 
 penguins can fly at over 50 km/h
+=======
+There are more people living in London than in the whole of Scotland (~9 million vs ~5.5 million)
+>>>>>>> parent of abd34b8 (add penguin fact)
